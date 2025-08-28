@@ -1,66 +1,42 @@
 [
   {
     "nome": "RARE BEAUTY",
-    "descricao": "gloss labial rare beauty positive light luminizing",
+    "descricao": "iluminador líquido rare beauty positive light",
+    "preco": "229,00",
+    "desconto": 30,
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
+    "avaliacao": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 1,
+    "nome": "gloss labial rare beauty positive light luminizing",
+    "marca": "RARE BEAUTY",
+    "descricao": "Com um brilho que reflete as cores, esse gloss labial Rare Beauty leve dá um efeito iluminado que faz os lábios parecerem mais cheios, com uma textura super macia. Também, possui uma hidratação duradoura e ainda tem um cheirinho suave de pêssego que deixa cada aplicação ainda mais gostosa.",
     "preco": "179,00",
     "desconto": 50,
     "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6d9bb2bc/images/Color%20BR/RARE%20BEAUTY/2025/lip_gloss/dazzle/840122908613_1.jpg?sw=400&sh=400&sm=fit",
-    "avaliacao": "⭐⭐⭐⭐⭐"
+    "imagens": [
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6d9bb2bc/images/Color%20BR/RARE%20BEAUTY/2025/lip_gloss/dazzle/840122908613_1.jpg?sw=400&sh=400&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw5e2076b2/images/Color%20BR/RARE%20BEAUTY/2025/lip_gloss/dazzle/840122908613_3.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "125 avaliações",
+    "detalhes": ["Cobertura média", "Duração 24h", "Toque seco"]
   },
   {
-    "nome": "RARE BEAUTY",
-    "descricao": "iluminador líquido rare beauty positive light",
+    "id": 2,
+    "nome": "iluminador líquido rare beauty positive light",
+    "marca": "RARE BEAUTY",
+    "descricao": "O Iluminador Líquido Rare Beauty Positive Light é um produto inovador que traz luminosidade e brilho à sua pele de forma natural e duradoura. Com uma fórmula leve e fácil de aplicar, ele se mistura perfeitamente com a pele, proporcionando um acabamento radiante e uniforme.",
     "preco": "229,00",
-    "desconto": 30,
+    "desconto": 50,
     "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-    "avaliacao": "⭐⭐⭐⭐⭐"
+    "imagens": [
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw300f1357/images/Color%20BR/RARE%20BEAUTY/luminizer/Positive-Light-Liquid-Luminizer-RB-Arm-Swatches_1000px.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "172 avaliações",
+    "detalhes": ["Cobertura média", "Duração 24h", "Toque seco"]
   },
-  {
-    "nome": "RARE BEAUTY",
-    "descricao": "iluminador líquido rare beauty positive light",
-    "preco": "229,00",
-    "desconto": 30,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-    "avaliacao": "⭐⭐⭐⭐⭐"
-  },
-  {
-    "nome": "RARE BEAUTY",
-    "descricao": "iluminador líquido rare beauty positive light",
-    "preco": "229,00",
-    "desconto": 30,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-    "avaliacao": "⭐⭐⭐⭐⭐"
-  },
-  {
-    "nome": "RARE BEAUTY",
-    "descricao": "iluminador líquido rare beauty positive light",
-    "preco": "229,00",
-    "desconto": 30,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-    "avaliacao": "⭐⭐⭐⭐⭐"
-  },
-  {
-    "nome": "RARE BEAUTY",
-    "descricao": "iluminador líquido rare beauty positive light",
-    "preco": "229,00",
-    "desconto": 30,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-    "avaliacao": "⭐⭐⭐⭐⭐"
-  },
-  {
-    "nome": "RARE BEAUTY",
-    "descricao": "iluminador líquido rare beauty positive light",
-    "preco": "229,00",
-    "desconto": 30,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-    "avaliacao": "⭐⭐⭐⭐⭐"
-  },
-  {
-    "nome": "RARE BEAUTY",
-    "descricao": "iluminador líquido rare beauty positive light",
-    "preco": "229,00",
-    "desconto": 30,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-    "avaliacao": "⭐⭐⭐⭐⭐"
-  }
 ]
