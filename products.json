@@ -1,11 +1,12 @@
 [
   {
     "id": 1,
+    "categoria": 3,
     "nome": "gloss labial rare beauty positive light luminizing",
     "marca": "RARE BEAUTY",
     "descricao": "Com um brilho que reflete as cores, esse gloss labial Rare Beauty leve dá um efeito iluminado que faz os lábios parecerem mais cheios, com uma textura super macia. Também, possui uma hidratação duradoura e ainda tem um cheirinho suave de pêssego que deixa cada aplicação ainda mais gostosa.",
     "preco": "179,00",
-    "desconto": 50,
+    "desconto": 60,
     "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6d9bb2bc/images/Color%20BR/RARE%20BEAUTY/2025/lip_gloss/dazzle/840122908613_1.jpg?sw=400&sh=400&sm=fit",
     "imagens": [
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6d9bb2bc/images/Color%20BR/RARE%20BEAUTY/2025/lip_gloss/dazzle/840122908613_1.jpg?sw=400&sh=400&sm=fit",
@@ -17,11 +18,12 @@
   },
   {
     "id": 2,
+    "categoria": 2,
     "nome": "iluminador líquido rare beauty positive light",
     "marca": "RARE BEAUTY",
     "descricao": "O Iluminador Líquido Rare Beauty Positive Light é um produto inovador que traz luminosidade e brilho à sua pele de forma natural e duradoura. Com uma fórmula leve e fácil de aplicar, ele se mistura perfeitamente com a pele, proporcionando um acabamento radiante e uniforme.",
     "preco": "229,00",
-    "desconto": 50,
+    "desconto": 60,
     "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
     "imagens": [
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
@@ -33,11 +35,12 @@
   },
   {
     "id": 3,
+    "categoria": 3,
     "nome": "lápis de contorno labial boca rosa",
     "marca": "BOCA ROSA",
     "descricao": "O Contorno Labial Boca Rosa possui um aplicador chanfrado que proporciona mais precisão e suavidade na aplicação. Sua textura desliza delicadamente pelos lábios, depositando uma cor intensa e sofisticada desde o primeiro traço. Com uma fórmula de alta performance, oferece um contorno impecável, sem borrões, para um acabamento refinado e duradouro.",
     "preco": "40,00",
-    "desconto": 50,
+    "desconto": 60,
     "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6a2a0e29/images/Color%20BR/BOCAROSA/2025/contorno_labial/rose/aberto_ROSE.png?sw=1200&sh=1200&sm=fit",
     "imagens": [
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6a2a0e29/images/Color%20BR/BOCAROSA/2025/contorno_labial/rose/aberto_ROSE.png?sw=1200&sh=1200&sm=fit",
@@ -50,11 +53,12 @@
   },
   {
     "id": 4,
+    "categoria": 3,
     "nome": "kit de gloss labial mac nightmode lipglass air",
     "marca": "M·A·C",
     "descricao": "Coloque seus lábios em modo noturno com este conjunto de edição limitada de best-sellers brilhantes como vidro, e tão leves quanto o ar. Com Lipglass Air Non-Sticky Gloss em tamanho real nas cores Snobbish e Casual, esse kit do tamanho de uma bolsa de mão oferece uma dose dupla de brilho não pegajoso, hidratante e viciante que você adora. Cada tom de brilho proporciona uma sensação leve como o ar e um cuidado nutritivo de nível superior. ",
     "preco": "239,00",
-    "desconto": 50,
+    "desconto": 60,
     "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd4b89da3/images/Color%20BR/MAC/2025/night_kit_lipglass/773602764105_1.jpg?sw=1200&sh=1200&sm=fit",
     "imagens": [
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd4b89da3/images/Color%20BR/MAC/2025/night_kit_lipglass/773602764105_1.jpg?sw=1200&sh=1200&sm=fit",
@@ -66,67 +70,39 @@
     "detalhes": ["Cobertura brilhantes", "Duração 48h", "Toque molhado"]
   },
   {
-    "id": 2,
-    "nome": "iluminador líquido rare beauty positive light",
-    "marca": "RARE BEAUTY",
-    "descricao": "O Iluminador Líquido Rare Beauty Positive Light é um produto inovador que traz luminosidade e brilho à sua pele de forma natural e duradoura. Com uma fórmula leve e fácil de aplicar, ele se mistura perfeitamente com a pele, proporcionando um acabamento radiante e uniforme.",
-    "preco": "229,00",
-    "desconto": 50,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
+    "id": 5,
+    "categoria": 3,
+    "nome": "kit para lábios nudestix nude love palette",
+    "marca": "NUDESTIX",
+    "descricao": "Ideal para criar looks desde o natural até o mais glamouroso, a paleta é perfeita para levar na bolsa e montar combinações personalizadas com facilidade.",
+    "preco": "489,00",
+    "desconto": 80,
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4d8fdaf0/images/Color%20BR/Nudestix/2025/love_palette/ASSETS%20BR_31.0732.jpg?sw=1200&sh=1200&sm=fit",
     "imagens": [
-      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw300f1357/images/Color%20BR/RARE%20BEAUTY/luminizer/Positive-Light-Liquid-Luminizer-RB-Arm-Swatches_1000px.jpg?sw=556&sh=680&sm=fit"
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4d8fdaf0/images/Color%20BR/Nudestix/2025/love_palette/ASSETS%20BR_31.0732.jpg?sw=1200&sh=1200&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw7ccdd518/images/Color%20BR/Nudestix/2025/love_palette/ASSETS%20BR_31.0745.jpg?sw=556&sh=680&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwa872b301/images/Color%20BR/Nudestix/2025/love_palette/ASSETS%20BR_31.0734.jpg?sw=556&sh=680&sm=fit"
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
-    "avaliacoes": "172 avaliações",
-    "detalhes": ["Cobertura média", "Duração 24h", "Toque seco"]
+    "avaliacoes": "372 avaliações",
+    "detalhes": ["Fórmulas livres", "Ceras e pigmentos naturais", "Peptídeos"]
   },
   {
-    "id": 2,
-    "nome": "iluminador líquido rare beauty positive light",
-    "marca": "RARE BEAUTY",
-    "descricao": "O Iluminador Líquido Rare Beauty Positive Light é um produto inovador que traz luminosidade e brilho à sua pele de forma natural e duradoura. Com uma fórmula leve e fácil de aplicar, ele se mistura perfeitamente com a pele, proporcionando um acabamento radiante e uniforme.",
-    "preco": "229,00",
-    "desconto": 50,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
+    "id": 6,
+    "categoria": 2,
+    "nome": "pó solto translúcido bareminerals original loose powder mineral veil",
+    "marca": "BAREMINERALS",
+    "descricao": "Um pó solto translúcido, leve e sem talco, com FPS 25, que fixa a maquiagem e prolonga sua duração — enquanto disfarça poros e linhas finas para um acabamento matte suave. Fixa a maquiagem e prolonga a duração, minimiza a aparência de poros e linhas finas.",
+    "preco": "120,45",
+    "desconto": 65,
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwb5d085f1/images/Color%20BR/BAREMINERALS/5183_52702_MinVeil_SPF25Original-removebg-preview.png?sw=1200&sh=1200&sm=fit",
     "imagens": [
-      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw300f1357/images/Color%20BR/RARE%20BEAUTY/luminizer/Positive-Light-Liquid-Luminizer-RB-Arm-Swatches_1000px.jpg?sw=556&sh=680&sm=fit"
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwb5d085f1/images/Color%20BR/BAREMINERALS/5183_52702_MinVeil_SPF25Original-removebg-preview.png?sw=1200&sh=1200&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwb4b2bd5a/images/Color%20BR/BAREMINERALS/ajustes/po_solto/61316_5_3dcf5002-1407-49aa-8646.jpg?sw=556&sh=680&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4bbad3e5/images/Color%20BR/BAREMINERALS/ajustes/po_solto/47626_MinVeil_Original_COMP.jpg?sw=556&sh=680&sm=fit"
     ],
-    "avaliacao": "⭐⭐⭐⭐⭐",
-    "avaliacoes": "172 avaliações",
-    "detalhes": ["Cobertura média", "Duração 24h", "Toque seco"]
+    "avaliacao": "⭐⭐⭐⭐",
+    "avaliacoes": "72 avaliações",
+    "detalhes": ["Titanium Dioxide", "Zea Mays (Corn Starch)", "Corn Starch Modified"]
   },
-  {
-    "id": 2,
-    "nome": "iluminador líquido rare beauty positive light",
-    "marca": "RARE BEAUTY",
-    "descricao": "O Iluminador Líquido Rare Beauty Positive Light é um produto inovador que traz luminosidade e brilho à sua pele de forma natural e duradoura. Com uma fórmula leve e fácil de aplicar, ele se mistura perfeitamente com a pele, proporcionando um acabamento radiante e uniforme.",
-    "preco": "229,00",
-    "desconto": 50,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-    "imagens": [
-      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw300f1357/images/Color%20BR/RARE%20BEAUTY/luminizer/Positive-Light-Liquid-Luminizer-RB-Arm-Swatches_1000px.jpg?sw=556&sh=680&sm=fit"
-    ],
-    "avaliacao": "⭐⭐⭐⭐⭐",
-    "avaliacoes": "172 avaliações",
-    "detalhes": ["Cobertura média", "Duração 24h", "Toque seco"]
-  },
-  {
-    "id": 2,
-    "nome": "iluminador líquido rare beauty positive light",
-    "marca": "RARE BEAUTY",
-    "descricao": "O Iluminador Líquido Rare Beauty Positive Light é um produto inovador que traz luminosidade e brilho à sua pele de forma natural e duradoura. Com uma fórmula leve e fácil de aplicar, ele se mistura perfeitamente com a pele, proporcionando um acabamento radiante e uniforme.",
-    "preco": "229,00",
-    "desconto": 50,
-    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-    "imagens": [
-      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
-      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw300f1357/images/Color%20BR/RARE%20BEAUTY/luminizer/Positive-Light-Liquid-Luminizer-RB-Arm-Swatches_1000px.jpg?sw=556&sh=680&sm=fit"
-    ],
-    "avaliacao": "⭐⭐⭐⭐⭐",
-    "avaliacoes": "172 avaliações",
-    "detalhes": ["Cobertura média", "Duração 24h", "Toque seco"]
-  }
 ]
