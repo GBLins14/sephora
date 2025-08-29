@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "categoria": 3,
+    "nome": "gloss labial rare beauty positive light luminizing",
+    "marca": "RARE BEAUTY",
+    "descricao": "Com um brilho que reflete as cores, esse gloss labial Rare Beauty leve dá um efeito iluminado que faz os lábios parecerem mais cheios, com uma textura super macia. Também, possui uma hidratação duradoura e ainda tem um cheirinho suave de pêssego que deixa cada aplicação ainda mais gostosa.",
+    "preco": "179,00",
+    "desconto": 60,
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6d9bb2bc/images/Color%20BR/RARE%20BEAUTY/2025/lip_gloss/dazzle/840122908613_1.jpg?sw=400&sh=400&sm=fit",
+    "imagens": [
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6d9bb2bc/images/Color%20BR/RARE%20BEAUTY/2025/lip_gloss/dazzle/840122908613_1.jpg?sw=400&sh=400&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw5e2076b2/images/Color%20BR/RARE%20BEAUTY/2025/lip_gloss/dazzle/840122908613_3.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "125 avaliações",
+    "detalhes": ["Cobertura média", "Duração 24h", "Toque seco"]
+  },
+  {
+    "id": 2,
+    "categoria": 2,
+    "nome": "iluminador líquido rare beauty positive light",
+    "marca": "RARE BEAUTY",
+    "descricao": "O Iluminador Líquido Rare Beauty Positive Light é um produto inovador que traz luminosidade e brilho à sua pele de forma natural e duradoura. Com uma fórmula leve e fácil de aplicar, ele se mistura perfeitamente com a pele, proporcionando um acabamento radiante e uniforme.",
+    "preco": "229,00",
+    "desconto": 60,
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
+    "imagens": [
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd530bd33/images/Color%20BR/RARE%20BEAUTY/luminizer/HIGHLIGHTER-RARE%20BEAUTY-POSITIVE%20LIGHT%20-%20LIQUID%20LUMINIZER%20-%20REFLECT840122900150_1500px.jpg?sw=1200&sh=1200&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw300f1357/images/Color%20BR/RARE%20BEAUTY/luminizer/Positive-Light-Liquid-Luminizer-RB-Arm-Swatches_1000px.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "172 avaliações",
+    "detalhes": ["Cobertura média", "Duração 24h", "Toque seco"]
+  },
+  {
+    "id": 3,
+    "categoria": 3,
+    "nome": "lápis de contorno labial boca rosa",
+    "marca": "BOCA ROSA",
+    "descricao": "O Contorno Labial Boca Rosa possui um aplicador chanfrado que proporciona mais precisão e suavidade na aplicação. Sua textura desliza delicadamente pelos lábios, depositando uma cor intensa e sofisticada desde o primeiro traço. Com uma fórmula de alta performance, oferece um contorno impecável, sem borrões, para um acabamento refinado e duradouro.",
+    "preco": "40,00",
+    "desconto": 60,
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6a2a0e29/images/Color%20BR/BOCAROSA/2025/contorno_labial/rose/aberto_ROSE.png?sw=1200&sh=1200&sm=fit",
+    "imagens": [
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6a2a0e29/images/Color%20BR/BOCAROSA/2025/contorno_labial/rose/aberto_ROSE.png?sw=1200&sh=1200&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6764df4a/images/Color%20BR/BOCAROSA/2025/contorno_labial/rose/CONTORNO_cartucho_produto_ROSE.png?sw=556&sh=680&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw601534ed/images/Color%20BR/BOCAROSA/2025/contorno_labial/rose/hidra_ROSE_antes_depois_02.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "172 avaliações",
+    "detalhes": ["Cobertura média", "Duração 24h", "Toque seco"]
+  },
+  {
+    "id": 4,
+    "categoria": 3,
+    "nome": "kit de gloss labial mac nightmode lipglass air",
+    "marca": "M·A·C",
+    "descricao": "Coloque seus lábios em modo noturno com este conjunto de edição limitada de best-sellers brilhantes como vidro, e tão leves quanto o ar. Com Lipglass Air Non-Sticky Gloss em tamanho real nas cores Snobbish e Casual, esse kit do tamanho de uma bolsa de mão oferece uma dose dupla de brilho não pegajoso, hidratante e viciante que você adora. Cada tom de brilho proporciona uma sensação leve como o ar e um cuidado nutritivo de nível superior. ",
+    "preco": "239,00",
+    "desconto": 60,
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd4b89da3/images/Color%20BR/MAC/2025/night_kit_lipglass/773602764105_1.jpg?sw=1200&sh=1200&sm=fit",
+    "imagens": [
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd4b89da3/images/Color%20BR/MAC/2025/night_kit_lipglass/773602764105_1.jpg?sw=1200&sh=1200&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwaa62c4bf/images/Color%20BR/MAC/2025/night_kit_lipglass/773602764105_2.jpg?sw=556&sh=680&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw967acbab/images/Color%20BR/MAC/2025/night_kit_lipglass/773602729623_3.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "138 avaliações",
+    "detalhes": ["Cobertura brilhantes", "Duração 48h", "Toque molhado"]
+  },
+  {
+    "id": 5,
+    "categoria": 3,
+    "nome": "kit para lábios nudestix nude love palette",
+    "marca": "NUDESTIX",
+    "descricao": "Ideal para criar looks desde o natural até o mais glamouroso, a paleta é perfeita para levar na bolsa e montar combinações personalizadas com facilidade.",
+    "preco": "489,00",
+    "desconto": 80,
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4d8fdaf0/images/Color%20BR/Nudestix/2025/love_palette/ASSETS%20BR_31.0732.jpg?sw=1200&sh=1200&sm=fit",
+    "imagens": [
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4d8fdaf0/images/Color%20BR/Nudestix/2025/love_palette/ASSETS%20BR_31.0732.jpg?sw=1200&sh=1200&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw7ccdd518/images/Color%20BR/Nudestix/2025/love_palette/ASSETS%20BR_31.0745.jpg?sw=556&sh=680&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwa872b301/images/Color%20BR/Nudestix/2025/love_palette/ASSETS%20BR_31.0734.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "372 avaliações",
+    "detalhes": ["Fórmulas livres", "Ceras e pigmentos naturais", "Peptídeos"]
+  },
+  {
+    "id": 6,
+    "categoria": 2,
+    "nome": "pó solto translúcido bareminerals original loose powder mineral veil",
+    "marca": "BAREMINERALS",
+    "descricao": "Um pó solto translúcido, leve e sem talco, com FPS 25, que fixa a maquiagem e prolonga sua duração — enquanto disfarça poros e linhas finas para um acabamento matte suave. Fixa a maquiagem e prolonga a duração, minimiza a aparência de poros e linhas finas.",
+    "preco": "120,45",
+    "desconto": 65,
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwb5d085f1/images/Color%20BR/BAREMINERALS/5183_52702_MinVeil_SPF25Original-removebg-preview.png?sw=1200&sh=1200&sm=fit",
+    "imagens": [
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwb5d085f1/images/Color%20BR/BAREMINERALS/5183_52702_MinVeil_SPF25Original-removebg-preview.png?sw=1200&sh=1200&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwb4b2bd5a/images/Color%20BR/BAREMINERALS/ajustes/po_solto/61316_5_3dcf5002-1407-49aa-8646.jpg?sw=556&sh=680&sm=fit",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4bbad3e5/images/Color%20BR/BAREMINERALS/ajustes/po_solto/47626_MinVeil_Original_COMP.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐",
+    "avaliacoes": "72 avaliações",
+    "detalhes": ["Titanium Dioxide", "Zea Mays (Corn Starch)", "Corn Starch Modified"]
+  },
+  {
+    "id": 7,
+    "categoria": 3,
+    "nome": "lápis de contorno labial boca rosa",
+    "marca": "BOCA ROSA",
+    "descricao": "O Contorno Labial Boca Rosa possui um aplicador chanfrado que proporciona mais precisão e suavidade na aplicação. Sua textura desliza delicadamente pelos lábios, depositando uma cor intensa e sofisticada desde o primeiro traço. Com uma fórmula de alta performance, oferece um contorno impecável, sem borrões, para um acabamento refinado e duradouro.",
+    "preco": "40,00",
+    "desconto": 65,
+    "imagem": "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+    "imagens": [
+      "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwdffd4b45/images/Color%20BR/BOCAROSA/2025/contorno_labial/rosa/CONTORNO_cartucho_produto_ROSA.png?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "71 avaliações",
+    "detalhes": ["Óleo de Semente de Algodão", "Óleo de Rícino"]
+  },
+  {
+    "id": 8,
+    "categoria": 3,
+    "nome": "lip oil lancôme idôle juicytreat",
+    "marca": "LANCÔME",
+    "descricao": "O IDÔLE JUICYTREAT é um lip oil com efeito gloss 3D que proporciona um brilho intenso e tridimensional instantâneo, sem aquela sensação pegajosa indesejada. Enriquecido com 20% de esqualano , esse lip oil hidratante oferece uma hidratação leve e poderosa, com até +70% de aumento na hidratação dos lábios* logo na primeira aplicação.",
+    "preco": "279,00",
+    "desconto": 80,
+    "imagem": "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+    "imagens": [
+      "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd70cf516/images/Color"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "271 avaliações",
+    "detalhes": ["SQUALANO", "BIS-DIGLICERIL"]
+  },
+  {
+    "id": 9,
+    "categoria": 2,
+    "nome": "paleta lancôme idôle café crush",
+    "marca": "LANCÔME",
+    "descricao": "Experimente a combinação perfeita de tons nude, uma paleta rica e inspirada no café para embelezar todas as personalidades, oferecendo infinitas possibilidades para quem deseja criar um visual tanto diurno e natural, quanto noturno e ousado.​",
+    "preco": "619,00",
+    "desconto": 80,
+    "imagem": "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+    "imagens": [
+      "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw0c2bf018/images/Color%20BR/lancome/2025/paleta_maxi_palette/3614274293500.02_1000px.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "449 avaliações",
+    "detalhes": ["SYNTHETIC FLUORPHLOGOPITE", "TALC", "IRON OXIDES"]
+  },
+  {
+    "id": 10,
+    "categoria": 3,
+    "nome": "kit para lábios nudestix nude love palette",
+    "marca": "NUDESTIX",
+    "descricao": "O que vem no kit: 3 Lápis Intense Matte Lip + Cheek (2,8 g cada): Sunkissed Rose: rosa natural quente - Sunkissed Pink: nude rosado quente - Sunkissed Nude: nude natural quente",
+    "preco": "489,00",
+    "desconto": 80,
+    "imagem": "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+    "imagens": [
+      "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw7ccdd518/images/Color%20BR/Nudestix/2025/love_palette/ASSETS%20BR_31.0745.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐",
+    "avaliacoes": "242 avaliações",
+    "detalhes": ["Peptídeos", "Manteiga de Karité", "Ceras e pigmentos naturais"]
+  },
+  {
+    "id": 11,
+    "categoria": 2,
+    "nome": "pó solto translúcido bareminerals original loose powder mineral veil",
+    "marca": "BAREMINERALS",
+    "descricao": "Um pó solto translúcido, leve e sem talco, com FPS 25, que fixa a maquiagem e prolonga sua duração — enquanto disfarça poros e linhas finas para um acabamento matte suave. Fixa a maquiagem e prolonga a duração, minimiza a aparência de poros e linhas finas, absorve o excesso de oleosidade, combina bem com todas as bases bareMinerals.",
+    "preco": "120,45",
+    "desconto": 70,
+    "imagem": "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+    "imagens": [
+      "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwb4b2bd5a/images/Color%20BR/BAREMINERALS/ajustes/po_solto/61316_5_3dcf5002-1407-49aa-8646.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "114 avaliações",
+    "detalhes": ["Zea Mays (Corn Starch)", "Iron Oxides", "Titanium Dioxide"]
+  },
+  {
+    "id": 12,
+    "categoria": 3,
+    "nome": "batom sisley phyto-rouge velvet",
+    "marca": "SISLEY",
+    "descricao": "Suave e ousado, o Phyto-Rouge Velvet envolve os lábios em uma cor matte intensa, tão luminosa e macia quanto o veludo, que os protege instantaneamente, dia após dia.",
+    "preco": "510,00",
+    "desconto": 80,
+    "imagem": "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+    "imagens": [
+      "https://www.sephora.com.br/on/demandware.static/-/Sites/pt_BR/dw7c03a08c/20250827_menu_makeup_a.jpg",
+      "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6776eceb/images/Color%20BR/sisley/2025/batom_phyto_velvet/10/3473311707000%20(9)_1000px.jpg?sw=556&sh=680&sm=fit"
+    ],
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "avaliacoes": "338 avaliações",
+    "detalhes": ["Complexo Hydrobooster", "Efeito preenchedor e suavizante", "Ingrediente ativo antioxidante"]
+  }
+]
+
