@@ -15,11 +15,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "329 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 2,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Sérum Firmador Laneige Bouncy & Firm",
     "marca": "LANEIGE",
     "descricao": "O Sérum Firmador LANEIGE Bouncy & Firm é um tratamento coreano leve e potente, desenvolvido para combater os sinais visíveis do envelhecimento. Inspirado na tendência slow-aging, ele atua na firmeza e elasticidade da pele, promovendo uma aparência mais jovem, luminosa e saudável. Sua fórmula inovadora combina o complexo Peony and Collagen™ com Peptide Water, que reforça a produção natural de colágeno, além de RE.D Flavonoid™, que previne o surgimento de novas linhas e sinais de idade. As cápsulas SmoothTech™ de vitaminas C, E e óleo de alga oferecem nutrição antioxidante e realce instantâneo do viço. Dermatologicamente testado, não comedogênico e ideal para peles sensíveis.",
@@ -41,11 +41,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "141 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 3,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Fluido Matificante Hidratante Caudalie Vinopure",
     "marca": "CAUDALIE",
     "descricao": "Um hidratante leve e matificante que reduz visivelmente as imperfeições, refina a textura da pele e absorve o excesso de oleosidade. Sua textura leve hidrata e matifica a pele com tendência a acne.",
@@ -62,11 +62,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "312 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 4,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Solução Secativa Salicílica Caudalie Vinopure",
     "marca": "CAUDALIE",
     "descricao": "Uma solução para imperfeições, reduz visivelmente a acne em até 4 horas. Formulada com ácido salicílico natural, melaleuca e 2% de niacinamida. Um produto de ação rápida para clarear e reduzir visivelmente a vermelhidão.",
@@ -82,11 +82,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "76 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 5,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Sérum Facial Salicílico Caudalie Vinopure",
     "marca": "CAUDALIE",
     "descricao": "Um Sérum de tratamento natural que trata e previne todos os tipos de acne. Enriquecido com Ácido Salicílico, reduz visivelmente a acne, ajuda a reduzir a aparência dos poros e melhora a textura da pele. A Gluconolactone (PHA) reforça a barreira cutânea permitindo a cicatrização para resultados duradouros.",
@@ -103,11 +103,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "125 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 6,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Gel de Limpeza Purificante Caudalie Vinopure",
     "marca": "CAUDALIE",
     "descricao": "O que é? Um gel de limpeza que não resseca a pele enquanto purifica e reduz visivelmente cravos e espinhas. Absorve o excesso de oleosidade e sebo enquanto reduz a aparência dos poros, deixando a pele limpa e revigorada.",
@@ -124,11 +124,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "171 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 7,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Loção Tônica Purificante Caudalie Vinopure",
     "marca": "CAUDALIE",
     "descricao": "Um tônico purificante enriquecido com Ácido Salicílico natural para esfoliar as células mortas, reduzir o excesso de oleosidade, comprimir visivelmente os poros e reduzir os cravos. Formulado com Água de Uva rica em antioxidantes, Água de Rosas calmante, e um complexo de óleos essenciais. Hidrata, refina visivelmente a textura da pele e ajuda a prevenir a oleosidade.",
@@ -146,11 +146,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "271 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 8,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Kit Drunk Elephant Nightcap Cream Edition",
     "marca": "DRUNK ELEPHANT",
     "descricao": "Quando estiver tudo pronto para dormir, esses dois itens essenciais, exuberantes e calmantes manterão sua pele mais suave, macia e completamente hidratada. O Kit Inclui : o    Bora Barrier™ Repair Cream – 50 ml/1,69 fl oz o    Mello Marula™ Cream Cleanser – 150 ml/5 fl oz",
@@ -166,11 +166,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "122 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 9,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Kit Drunk Elephant Nightcap Gel Edition",
     "marca": "DRUNK ELEPHANT",
     "descricao": "Não há nada melhor para o final do dia do que dois clássicos essenciais em tamanho full size para manter a pele mais firme, forte e com mais elasticidade. O Kit Inclui : Protini™ Polypeptide Cream – 50 ml/1,69 fl oz Beste™ No. 9 Jelly Cleanser – 150 ml/5 fl oz",
@@ -187,11 +187,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "276 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 10,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Máscara Facial com Ácido Salicílico 2% The Ordinary",
     "marca": "THE ORDINARY",
     "descricao": "A Máscara Facial com Ácido Salicílico 2% combina carvão e argila para deixar a pele mais uniforme, limpa e revitalizada. Com ácido salicílico na fórmula, ela ajuda a remover o excesso de oleosidade, eliminar células mortas e desobstruir os poros, deixando a pele mais macia ao toque. O carvão e a argila absorvem impurezas que podem causar imperfeições, realçando a luminosidade natural da pele.",
@@ -207,11 +207,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "447 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 11,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Kit de Proteção à Barreira da Pele The Ordinary",
     "marca": "THE ORDINARY",
     "descricao": "Ofereça à sua pele o cuidado que ela merece com uma dose concentrada de vitamina B5, B3 e ácido hialurônico — tudo em um único conjunto eficaz.",
@@ -229,11 +229,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "308 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 12,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Kit Diário de Cuidados com a Pele The Ordinary",
     "marca": "THE ORDINARY",
     "descricao": "Se você está começando a usar os produtos da The Ordinary, este é o kit ideal para você. O Kit Diário de Cuidados com a Pele reúne três produtos essenciais para a sua rotina:",
@@ -250,11 +250,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "219 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 13,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Sérum Antissinais com 15% Fatores de Crescimento The Ordinary",
     "marca": "THE ORDINARY",
     "descricao": "O Sérum com 15% de Fatores de Crescimento ajuda a minimizar e reparar danos visíveis de linhas de expressão da pele do rosto e pescoço, resultando em uma pele mais macia e de aparência mais jovem.",
@@ -267,7 +267,7 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "321 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 14,
@@ -286,11 +286,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "391 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 15,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Sérum Facial Hidratante com Ácido Hialurônico 2% + Vitamina B5 e Ceramidas The Ordinary",
     "marca": "THE ORDINARY",
     "descricao": "O Sérum Facial Hidratante com Ácido Hialurônico 2% + Vitamina B5 e Ceramidas é o mais recente sérum de ácido hialurônico da The Ordinary. Esta fórmula de última geração e de textura super leve, oferece hidratação imediata e de longo prazo, proporcionando uma pele mais macia, preenchida, uniforme e com aparência saudável.",
@@ -310,11 +310,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "87 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 16,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Sérum Multiativo Reforço da Barreira Cutânea The Ordinary",
     "marca": "THE ORDINARY",
     "descricao": "O Sérum Multiativo com Reforço da Barreira Cutânea é uma solução multiatíva formulada especialmente para cuidar da barreira da pele danificada. Ele ajuda a recuperar e fortalecer essa barreira em até 2 horas*, proporcionando um aumento imediato de 86% na hidratação**, aliviando o desconforto e reduzindo sinais de irritação e vermelhidão.",
@@ -330,11 +330,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "379 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 17,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Hidratante Facial em Gel com Beta Glucana The Ordinary",
     "marca": "THE ORDINARY",
     "descricao": "O Hidratante Facial em Gel com Beta-Glucana proporciona hidratação ao longo do dia com apenas uma aplicação. Com uma combinação de fatores naturais de hidratação, beta-glucana e ceramidas, também ajuda a fortalecer a barreira natural da pele.",
@@ -349,11 +349,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "451 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 18,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Pincel para base Carolina Herrera",
     "marca": "CAROLINA HERRERA",
     "descricao": "Alcance resultados profissionais com o Pincel Foundation Herrera – o primeiro pincel de base que leva a sensação dos seus dedos para um nível profissional. Sua forma oval única e a borda pontiaguda imitam a aplicação com a ponta dos dedos para uma mistura perfeita e cobertura precisa, mesmo em áreas difíceis de alcançar.",
@@ -368,11 +368,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "324 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 19,
-    "categoria": 3,
+    "categoria": 1,
     "nome": "Pincel Carolina Herrera Kabuki Buffer",
     "marca": "CAROLINA HERRERA",
     "descricao": "Obtenha resultados de nível profissional com o Pincel Carolina Herrera Kabuki Buffer. Suas cerdas macias e densas e seu formato exclusivo e esculpido proporcionam resultados suaves em todas as aplicações. O primeiro pincel que eleva a sensação da ponta dos seus dedos a um nível profissional.",
@@ -387,11 +387,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "317 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 20,
-    "categoria": 3,
+    "categoria": 1,
     "nome": "Esponja para maquiagem Carolina Herrera Duo-faced blender",
     "marca": "CAROLINA HERRERA",
     "descricao": "Aplique sua base com precisão e facilidade usando a Esponja Dupla Face Carolina Herrera, uma ferramenta profissional para uma aplicação perfeita e versátil. A esponja conta com design exclusivo de textura dupla, serve para aplicar, espalhar e criar cobertura com controle profissional; combina perfeitamente com suas fórmulas favoritas em líquido, creme ou pó.",
@@ -406,19 +406,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "403 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 21,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Bronzer Laura Mercier Color Infusion",
     "marca": "LAURA MERCIER",
     "descricao": "Cinco tons matte se combinam com perolados rosados para um toque radiante de cor que imita o rubor natural da pele. Adequado para todos os tons de pele, essa fórmula contém pigmentos ultrafinos que proporcionam um acabamento difuso e impecável com duração de até 12 horas. Principais Benefícios:",
     "preco": "299,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwdee96de9/images/Color BR/laura-mercier/2025/bronze_color_infusion/cannes/LM_1H25_BRCI_COMPACT_30_CANNES_OPEN_SILO_R300_Layered.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwdee96de9/images/Color BR/laura-mercier/2025/bronze_color_infusion/cannes/LM_1H25_BRCI_COMPACT_30_CANNES_OPEN_SILO_R300_Layered.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw63d0005a/images/Color BR/laura-mercier/2025/bronze_color_infusion/cannes/LM_1H25_BRCI_COMPACT_CANNES_TEXTURE_SWATCH_R300_Layered.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6fde8793/images/Color BR/laura-mercier/2025/bronze_color_infusion/cannes/LM_1Q25_BRCI_BA_PDP_2000x2000_30_Cannes.jpg?sw=556&sh=680&sm=fit",
@@ -426,7 +425,7 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "375 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 22,
@@ -436,9 +435,8 @@
     "descricao": "Caviar Hydra-Creme Lipstick deixa os lábios instantaneamente hidratados e oferece cor fiel o dia todo. Com apenas uma passada, proporciona alta pigmentação e cobertura total, deixando os lábios com aparência mais cheia e volumosa. Essa fórmula moderna, à prova de borrões, oferece uma cor intensa, porém leve, que nunca resseca. Principais Benefícios",
     "preco": "289,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwba36b0fb/images/Color BR/laura-mercier/2025/caviar_creame_lipstick/191/LM_1H25_CHCL_191_AVE_MONTAIGNE_OPEN_SILO_BULLETS_R300_2000x2000.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwba36b0fb/images/Color BR/laura-mercier/2025/caviar_creame_lipstick/191/LM_1H25_CHCL_191_AVE_MONTAIGNE_OPEN_SILO_BULLETS_R300_2000x2000.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd91c2b89/images/Color BR/laura-mercier/2025/caviar_creame_lipstick/191/LM_1H25_CHCL_191_AVE_MONTAIGNE_TEXTURE_SWATCH_R300_2000x2000.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw02b8c6da/images/Color BR/laura-mercier/2025/caviar_creame_lipstick/191/LM_1Q25_CHCL_Macros_2000x2000_191AveMontaigne.jpg?sw=556&sh=680&sm=fit",
@@ -446,19 +444,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "481 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 23,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Base líquida Benefit The POREfessional",
     "marca": "BENEFIT COSMETICS",
     "descricao": "Prepare-se para um caso de amor com a sua pele! A base The POREfessional chegou para transformar a sua rotina de beleza. Com sua fórmula suavizante, efeito blur e paixão por poros, ela oferece cobertura média construível, além de um acabamento matte natural que dura o dia todo.",
     "preco": "299,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwc2e02b60/images/Color BR/BENEFIT/2025/base_liquida_the_pore_foundation/13w/602004157720_2.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwc2e02b60/images/Color BR/BENEFIT/2025/base_liquida_the_pore_foundation/13w/602004157720_2.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw9c5acfd1/images/Color BR/BENEFIT/2025/base_liquida_the_pore_foundation/13w/602004157720_5.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwf08f90c5/images/Color BR/BENEFIT/2025/base_liquida_the_pore_foundation/10n/602004157683_8.jpg?sw=556&sh=680&sm=fit",
@@ -472,7 +469,7 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "348 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 24,
@@ -482,9 +479,8 @@
     "descricao": "O Stick Cor Boca Rosa é um produto revolucionário que redefine o conceito de maquiagem multifuncional, oferecendo uma versatilidade incrível e podendo ser usado como blush, sombra e batom.",
     "preco": "60,00",
     "desconto": 60,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwe46a6a99/images/Color BR/BOCAROSA/2025/stick_cor/jampa/Jampa 7908847801879_1000px.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwe46a6a99/images/Color BR/BOCAROSA/2025/stick_cor/jampa/Jampa 7908847801879_1000px.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw941a9082/images/Color BR/BOCAROSA/2025/stick_cor/jampa/jampa_modelo_1000px.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw675efb72/images/Color BR/BOCAROSA/2025/stick_cor/jampa/boca rosa_stick cor_2082_1000px.jpg?sw=556&sh=680&sm=fit",
@@ -494,19 +490,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "440 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 25,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Iluminador em pó Carolina Herrera Nude Couture",
     "marca": "CAROLINA HERRERA",
     "descricao": "Esculpe, levante e ilumine sua pele com o Nude Couture Highlighter, disponível em dois tons favorecedores: Universal (01) e Rosé Hour (02), um lindo tom rosa champanhe. Proporcionando uma luminosidade iridescente instantânea, a inovadora fórmula de creme a pó, fácil de misturar, oferece uma luminosidade transparente e edificável, ao mesmo tempo que deixa a pele suave, tornando-a perfeita para uso durante todo o dia. Adicione o anel de joaninha para personalizá-lo com seus charms Herrera favoritos.",
     "preco": "419,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwc16c0bf3/images/Color BR/CH MAKE/2025/iluminador_em_po_nude_couture/02/_8411061114643_0065220199_0.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwc16c0bf3/images/Color BR/CH MAKE/2025/iluminador_em_po_nude_couture/02/_8411061114643_0065220199_0.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4d5405fb/images/Color BR/CH MAKE/2025/iluminador_em_po_nude_couture/02/_8411061114643_0065220199_5.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwd7d61332/images/Color BR/CH MAKE/2025/iluminador_em_po_nude_couture/02/_8411061114643_0065220199_6.jpg?sw=556&sh=680&sm=fit",
@@ -517,19 +512,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "168 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 26,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Bronzer matte Carolina Herrera Nude Couture",
     "marca": "CAROLINA HERRERA",
     "descricao": "Dê à sua pele um acabamento bronzeado saudável durante todo o ano com o novo Nude Couture Matte Bronzer, um pó bronzeador de última geração infundido com ingredientes que amam a pele que retém a hidratação durante 24 horas, proporciona um efeito de desfoque instantâneo e oferece uma duração de 12 horas. Unindo maquiagem e cuidados de pele, a fórmula vegana é enriquecida com 8% de emolientes para uma sensação suave e cremosa, e microesferas hialurônicas – conhecidas pelas suas incríveis propriedades de retenção de água. As pérolas prismáticas desfocam a aparência dos poros e imperfeições, criando uma aparência suave e macia, e uma fórmula à prova d'água garante um uso duradouro, mesmo em dias chuvosos ou úmidos. Descubra quatro tons versáteis criados para realçar todos os tons de pele: Leve 10, Média 20, Média Morena 30 e Morena 40. Como todas as maquiagens da Herrera Beauty, o Nude Couture Matte Bronzer é 100% recarregável e vem em um estojo compacto que pode ser personalizado com uma das 3 estampas chiques. Quer personalizá-lo ainda mais? Adicione um anel de besouro dourado e enfeite com quantos charms quiser!",
     "preco": "419,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw33b707a9/images/Color BR/CH MAKE/2025/bronzer_matte_nude_couture/30/_8411061113516_0065219433_0.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw33b707a9/images/Color BR/CH MAKE/2025/bronzer_matte_nude_couture/30/_8411061113516_0065219433_0.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw6f5a7eae/images/Color BR/CH MAKE/2025/bronzer_matte_nude_couture/30/_8411061113516_0065219433_6.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwe68c13cf/images/Color BR/CH MAKE/2025/bronzer_matte_nude_couture/_8411061113523_0065219434_8.jpg?sw=556&sh=680&sm=fit",
@@ -539,19 +533,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "269 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 27,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Base líquida Carolina Herrera Nude Couture Triple Moisture",
     "marca": "CAROLINA HERRERA",
     "descricao": "Vista sua pele com uma radiância digna de alta-costura com a Nude Couture Triple Moisture Serum Foundation – a única base com infusão de skincare que triplica a hidratação da pele. Esta base híbrida revolucionária une os benefícios de disfarce e cobertura da maquiagem ao poder hidratante de um sérum avançado, para uma aparência saudável e luminosa. Formulada com uma mistura tripla de ativos que cuidam da pele, sua textura leve proporciona 24 horas de hidratação intensa, luminosidade e um efeito suavizante imediato – tudo isso com uma fórmula leve e à prova d’água. A manteiga de karité micronizada garante hidratação duradoura sem peso, enquanto o pantenol e a glicerina ajudam a manter a umidade, formando uma barreira protetora invisível. Os pigmentos revestidos com óleo de abacate tornam a cobertura mais leve e imperceptível ao toque. O extrato de jasmim, conhecido por potencializar a luminosidade, oferece um toque final de glow natural. O resultado? Uma pele com aparência saudável e radiante, do dia à noite – sem esforço.",
     "preco": "449,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4122d6c5/images/Color BR/CH MAKE/2025/base_liquida_serum_foundation/m340/_8411061062241_0065189057_0.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4122d6c5/images/Color BR/CH MAKE/2025/base_liquida_serum_foundation/m340/_8411061062241_0065189057_0.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw3cd53fa7/images/Color BR/CH MAKE/2025/base_liquida_serum_foundation/m340/_8411061062241_0065189057_7.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw0020267c/images/Color BR/CH MAKE/2025/base_liquida_serum_foundation/m340/_8411061062241_0065189057_9.jpg?sw=556&sh=680&sm=fit",
@@ -563,19 +556,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "216 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 28,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Base em pó Kylie Cosmetics Natural Blur",
     "marca": "KYLIE COSMETICS",
     "descricao": "Kylie Cosmetics My Natural Blur Powder Foundation é uma base em pó de cobertura média e construível, com um acabamento matte naturalmente suavizado que dura até 12 horas. Esta fórmula hidratante de longa duração permite que a pele respire e suaviza a aparência de poros, linhas finas e textura da pele, proporcionando cobertura sem deixar um aspecto pesado. Use este pó versátil como base, pó finalizador ou para retoques, para um acabamento natural que dura o dia todo.",
     "preco": "299,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw64cb40f7/images/Color BR/KYLIE/2025/base_em_po_natural_blur/3c/1.4064941615187.jpeg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw64cb40f7/images/Color BR/KYLIE/2025/base_em_po_natural_blur/3c/1.4064941615187.jpeg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw30e1a8fa/images/Color BR/KYLIE/2025/base_em_po_natural_blur/3c/3c.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw29dd6074/images/Color BR/KYLIE/2025/base_em_po_natural_blur/3c/KJC_NBPF_25_Digital_Arm_Swatch_2500x2500.psd-JPG-300dpi.jpeg?sw=556&sh=680&sm=fit",
@@ -583,19 +575,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "321 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 29,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Base líquida Lancôme Idôle Skintint",
     "marca": "LANCÔME",
     "descricao": "A nova Skintint de Lancôme Idôle Serum Supertint, um super-sérum com cor que oferece o melhor dos dois mundos: a cobertura leve de um sérum com cor,  a hidratação e o cuidado de um sérum de tratamento. Com textura ultra-leve, proporciona um acabamento natural e radiante que dura até 24 horas*, sem pesar na pele. Sinta a pele instantaneamente hidratada e com um viço saudável, graças à sua fórmula turbinada com 87% de base de skincare. O Idôle Serum Supertint não apenas cobre imperfeições e uniformiza o tom da pele, mas também hidrata e fortalece a barreira cutânea, retendo a umidade por até 24 horas**. Com 20 tons flexíveis, que vão do claro ao escuro, desenvolvidos em parceria com Sheika Daley, maquiadora internacional da Lancôme, você encontrará a cor perfeita para o seu tom de pele. A cobertura é construível, permitindo que você personalize a intensidade do resultado, de um look natural a uma cobertura média. Experimente a sensação de uma pele suave, luminosa e visivelmente preenchida, com um efeito blur que disfarça poros e linhas finas. O Idôle Serum Supertint é a escolha ideal para quem busca uma maquiagem leve, natural e duradoura, com o benefício adicional de um tratamento de skincare.",
     "preco": "349,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwbe26b9cb/images/Color BR/lancome/2025/skintin_lancome/16C/3614274344677.01_1000px.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwbe26b9cb/images/Color BR/lancome/2025/skintin_lancome/16C/3614274344677.01_1000px.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw2ce0c055/images/Color BR/lancome/2025/skintin_lancome/16C/3614274344677.02.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw8ba987bf/images/Color BR/lancome/2025/skintin_lancome/3614274344844.04.jpg?sw=556&sh=680&sm=fit",
@@ -604,19 +595,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "452 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 30,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Blush em pó Lancôme Subtil",
     "marca": "LANCÔME",
     "descricao": "Um blush em pó sedoso que oferece resultados de cor vibrantes, personalizáveis e que podem ser construídos em camadas para um rubor saudável. Agora com seis novos tons adaptáveis ao pH, alcance uma cor vibrante que dura o dia todo, adequada para todos os tipos de pele. A nova extensão de tons do Blush Subtil é o segredo aprovado por profissionais da Lancôme para um toque instantâneo de cor vibrante. Aprovado por profissionais e co-criado com a Maquiadora Global da Lancôme, Sheika Daley, os seis novos tons de blush em pó adaptáveis ao pH proporcionam uma cor que se funde à pele e se integra perfeitamente à sua rotina Teint Idole Ultra Wear*. O blush em pó sensorial e ultrafino vem com um pincel para esfumar e misturar, resultando em uma aparência fresca e natural. Em um teste de consumo com 65 mulheres. O blush em pó Blush Subtil funde-se perfeitamente à sua rotina de maquiagem e oferece resultados de cor vibrantes e confortáveis durante todo o dia.",
     "preco": "399,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw65ddb295/images/Color BR/lancome/2025/blush_em_po_subtil/500/3614274337877.01_1000px.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw65ddb295/images/Color BR/lancome/2025/blush_em_po_subtil/500/3614274337877.01_1000px.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwe9d562c9/images/Color BR/lancome/2025/blush_em_po_subtil/500/3614274337877.06.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw2a04341e/images/Color BR/lancome/2025/blush_em_po_subtil/500/3614274337877.02.jpg?sw=556&sh=680&sm=fit",
@@ -626,11 +616,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "132 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 31,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Pó Translúcido Compacto Fenty Invisimatte Blotting",
     "marca": "FENTY BEAUTY",
     "descricao": "Este pó Fenty Beauty finalizador universal disfarça poros, controla a oleosidade e prolonga a duração da maquiagem com acabamento mate natural.",
@@ -648,7 +638,7 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "64 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 32,
@@ -658,9 +648,8 @@
     "descricao": "DESLIZE COM BRILHO",
     "preco": "229,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw560d6e2e/images/Color BR/NARS/2025/lip_oil_afterglow/Nova pasta/lip oil high life.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw560d6e2e/images/Color BR/NARS/2025/lip_oil_afterglow/Nova pasta/lip oil high life.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw69112135/images/Color BR/NARS/2025/lip_oil_afterglow/Nova pasta/lip oil high life swatch.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwa3a60f82/images/Color BR/NARS/2025/lip_oil_afterglow/Nova pasta/lip oil swatches.jpg?sw=556&sh=680&sm=fit",
@@ -670,19 +659,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "115 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 33,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Paleta de rosto Nars Hot Escape Cheek",
     "marca": "NARS",
     "descricao": "MERGULHE EM CORES! Entre no clima de resort com paletas de blush em edição limitada, apresentando tons inspirados no sol que capturam o glamour do sul da França. Blushes com acabamento matte e cintilante oferecem um toque vibrante de cor, o pó bronzeador Laguna adiciona calor à pele, e o iluminador proporciona um brilho radiante, refletindo a luz do sol para um efeito luminoso natural. DETALHES: •Edição limitada •Vegano",
     "preco": "499,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4a4d9662/images/Color BR/NARS/2025/palette_hot_summer/l/paleta I.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4a4d9662/images/Color BR/NARS/2025/palette_hot_summer/l/paleta I.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw1e3c635c/images/Color BR/NARS/2025/palette_hot_summer/l/paleta I modelo.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwf7bc3036/images/Color BR/NARS/2025/palette_hot_summer/l/paleta I swatches.jpg?sw=556&sh=680&sm=fit",
@@ -692,19 +680,18 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "496 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 34,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Sombra em stick Nars Total Seductive",
     "marca": "NARS",
     "descricao": "DESLIZE. ENCANTE. SEDUZA. Chame a atenção com sombras em bastão irresistivelmente suaves, ultra cremosas, com acabamentos mate e cintilante que fixam na pele com um acabamento duradouro e resistente a vincos. A fórmula cremosa e flexível desliza facilmente, garantindo uma aplicação uniforme e cor à prova de borrões. Com textura que permite esfumar e construir camadas, mantém-se impecável por até 16 horas. DETALHES: • Resistente a vincos durante o dia todo; • À prova de transferência e borrões; • Até 16 horas de duração; • Cor de alto impacto e fácil de esfumar • Testado por oftalmologistas; não irritante.",
     "preco": "259,00",
     "desconto": 80,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwe4dcb21d/images/Color BR/NARS/2025/sombra_em_stick_seductive/orgasm/eyeshadow stick orgasm shade.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwe4dcb21d/images/Color BR/NARS/2025/sombra_em_stick_seductive/orgasm/eyeshadow stick orgasm shade.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw4bd84331/images/Color BR/NARS/2025/sombra_em_stick_seductive/orgasm/eyeshadow stick orgasm swatch.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw186a3a2b/images/Color BR/NARS/2025/sombra_em_stick_seductive/eyeshadow stick orgasm.jpg?sw=556&sh=680&sm=fit",
@@ -712,11 +699,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "416 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 35,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Base Lancôme Teint Idôle Ultra Wear Foundation",
     "marca": "LANCÔME",
     "descricao": "Você está pronta para uma revolução na sua rotina de maquiagem? A Lancôme apresenta a nova e aprimorada Base Teint Idôle Ultra Wear, uma obra-prima que combina alta cobertura matte natural com uma sensação de leveza indetectável na pele.",
@@ -734,12 +721,12 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "493 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 36,
     "categoria": 3,
-    "nome": "Batom Lancôme L\\'Absolu Rouge Cream",
+    "nome": "Batom Lancôme L'Absolu Rouge Cream",
     "marca": "LANCÔME",
     "descricao": "Conheça o novo L'Absolu Rouge Cream de Lancôme com cores intensas e embalagem ainda mais luxuosa. O icônico batom L'Absolu Rouge Cream agora com uma nova fórmula enriquecida com 30% de balm hidratante a partir do ingrediente exclusivo de Lancôme, o Extrato de Grand Rose, com uma textura ultra cremosa e uma aplicação suave, proporcionando lábios nutridos e inegavelmente confortáveis.",
     "preco": "299,00",
@@ -752,11 +739,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "481 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 37,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Corretivo Too Faced Born This Way Super Coverage Multi-Use Sculpting",
     "marca": "TOO FACED",
     "descricao": "",
@@ -771,7 +758,7 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "457 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 38,
@@ -781,9 +768,8 @@
     "descricao": "Apresentamos nossa NOVA lapiseira labial brilhante que define, preenche e dá volume aos lábios com um brilho irresistível. Com nossa fórmula em gel, você conquista lábios luminosos de forma fácil e versátil. Esta lapiseira labial exclusiva oferece um toque suave de brilho, criando a aparência de lábios mais volumosos com apenas uma passada. Destaque o contorno ou preencha completamente com uma cor cremosa e de sensação confortável. Criada para dias de brilho, essa lapiseira combina beleza e tratamento, graças à sua mistura nutritiva com óleo de semente de limnanthes e óleo de jojoba. As possibilidades de brilho são infinitas com oito tons sutilmente cintilantes, desenvolvidos para iluminar seus lábios. Vá do delicado ao ousado com os NOVOS tons ícones noturnos, além de nossos clássicos favoritos como Velvet Teddy, Candy Yum-Yum, Nightmoth e Lady Danger.",
     "preco": "149,00",
     "desconto": 70,
-    "imagem": "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
+    "imagem": "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw73fb97fa/images/Color BR/MAC/2025/lapis_de_boca_lip_glaze/root/773602750832_1.jpg?sw=556&sh=680&sm=fit",
     "imagens": [
-      "/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw7cbe6b45/images/noimagelargebr.png",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw73fb97fa/images/Color BR/MAC/2025/lapis_de_boca_lip_glaze/root/773602750832_1.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw034f189c/images/Color BR/MAC/2025/lapis_de_boca_lip_glaze/root/773602750832_3.jpg?sw=556&sh=680&sm=fit",
       "https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dwec93631f/images/Color BR/MAC/2025/lapis_de_boca_lip_glaze/root/773602750832_4.jpg?sw=556&sh=680&sm=fit",
@@ -792,11 +778,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "145 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 39,
-    "categoria": 3,
+    "categoria": 2,
     "nome": "Kit Máscara de Cilios Marrom e Lápis Multifuncional By Franciny Ehlke Chocoeyes",
     "marca": "FRAN BY FRANCINY EHLKE",
     "descricao": "CHOCOMASK & CHOCOLINER formam o Kit CHOCOEYES, a dupla perfeita para trazer a elegância do tom chocolate para os seus olhos... e, acredite, também para os lábios! O CHOCOLINER é um lápis multifuncional: ultra pigmentado, à prova d'água e de longa duração. Ele permite criar delineados impecáveis, dá para criar um efeito esfumado mara e, como contorno labial, define e valoriza os lábios, entregando o contraste perfeito para combinar com batons e gloss. A CHOCOMASK vai além de alongar, curvar e definir os cílios. Sua fórmula é enriquecida com ceras e Vitamina E e auxilia na nutrição e hidratação dos fios. O Kit CHOCOEYES chegou para exaltar a intensidade do marrom e tornar a maquiagem tão irresistível quanto o chocolate!",
@@ -814,11 +800,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "131 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 40,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Valentino born in roma Uomo Extradose Masculino Parfum",
     "marca": "VALENTINO",
     "descricao": "Descubra Born in Roma Uomo Extradose. Esse perfume masculino de Valentino explora uma experiência intensa com a mais alta concentração. Essa fragrância masculina é uma adição intensa à coleção Born in Roma. Born in Roma Uomo Extradose é uma fragrância fougère amadeirada e ambarada que abre as portas para uma magnífica experiência olfativa. Esse eau de parfum é amplificado por uma dose extra de vetiver, notas de especiarias cativantes e lavandin. O Uomo Extradose abre com notas de topo de uma mistura única de especiarias equilibrada com essências cítricas frescas de bergamota e tangerina. No coração, você encontrará facetas sofisticadas do coração de lavandin, entrelaçadas com notas salgadas. A conclusão do Uomo Extradose é a essência de um coração de vetiver e de uma madeira de Guaiac, ampliando os tons quentes e de couro, o que o torna uma ótima fragrância para o outono e o inverno. Em homenagem ao icônico Valentino Rockstud, o Uomo Extradose apresenta um design piramidal arrojado, inspirado na arquitetura romana e na assinatura da Maison Valentino.",
@@ -836,11 +822,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "116 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 41,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Kit Coffret Rabanne Fame Feminino Eau de Parfum",
     "marca": "RABANNE",
     "descricao": "Este kit exclusivo combina duas estrelas da beleza em um só presente: 1 Perfume Fame Eau de Parfum 50ml + 1 Máscara Deep Black 4,5ml",
@@ -853,11 +839,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "418 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 42,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Feito Brasil Alegria de Ver o Peso Cachaça de Jambu EDP",
     "marca": "FEITO BRASIL",
     "descricao": "Mais do que um perfume, a Cachaça de Flor de Jambu é uma jornada sensorial que o leva à exuberância da flora brasileira. Uma fragrância sofisticada e cativante, que mistura a doçura da baunilha, cumaru e frutas vermelhas com a suavidade floral do jasmim e das rosas, resultando em um aroma memorável.",
@@ -873,11 +859,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "158 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 43,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Feminino Shiseido Zen Eau de Parfum",
     "marca": "SHISEIDO",
     "descricao": "",
@@ -894,11 +880,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "154 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 44,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Givenchy Linterdit Feminino Parfum",
     "marca": "GIVENCHY",
     "descricao": "Infusionado com a Essência de Amêndoa Amarga, o icônico buquê branco de L'Interdit, composto por Flor de Laranjeira, Tuberosa e Jasmim, torna-se mais radiante do que nunca com notas florais e aveludadas de Absoluto de Mimosa. A assinatura de Vetiver e Patchouli revela suas facetas mais nobres, profundas e elegantes, enquanto um precioso acorde de Bálsamos — Absoluto de Mirra, Opoponax e Benjoim — aperfeiçoa o rastro, conferindo à fragrância o máximo de vício. Um perfume com uma aura cativante, deixando uma impressão distinta de sofisticação absoluta.",
@@ -915,11 +901,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "253 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 45,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Body Oil Shimmering Carolina Herrera La Bomba",
     "marca": "CAROLINA HERRERA",
     "descricao": "Um óleo corporal luxuoso que combina hidratação intensa, fragrância marcante e um irresistível toque de brilho.",
@@ -934,11 +920,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "93 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 46,
-    "categoria": 3,
+    "categoria": 6,
     "nome": "Carolina Herrera La Bomba Body Cream",
     "marca": "CAROLINA HERRERA",
     "descricao": "Um creme corporal luxuoso que nutre profundamente e deixa a pele macia como veludo, envolta na irresistível fragrância La Bomba. Sua textura rica hidrata intensamente enquanto perfuma com uma combinação exótica e viciante de notas frutadas, florais e cremosas. Nutrição intensa e suavidade imediata; Textura aveludada, de rápida absorção; Perfume marcante, com assinatura icônica de La Bomba; Ideal para completar o ritual de beleza com sofisticação.",
@@ -953,11 +939,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "438 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 47,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Carolina Herrera La Bomba Feminino Eau de Parfum",
     "marca": "CAROLINA HERRERA",
     "descricao": "La Bomba Eau de Parfum , de Carolina Herrera, é um perfume feminino extraordinário que convida você a abrir as asas e viver com intensidade e liberdade.",
@@ -973,11 +959,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "359 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 48,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Tommy Hilfiger Summer Masculino Eau de Toilette",
     "marca": "TOMMY HILFIGER",
     "descricao": "Sinta a energia de uma tarde divertida com Vibrant Summer , a nova fragrância solar, aromática e amadeirada de Tommy Hilfiger. Refrescante e vibrante, combina notas luminosas com a sofisticação das madeiras, transmitindo leveza, frescor e estilo. Perfeita para dias ensolarados, encontros casuais e momentos descontraídos que pedem um toque de charme masculino.",
@@ -990,11 +976,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "495 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 49,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Jean Paul Gaultier Divine Elixir Feminino Parfum",
     "marca": "JEAN PAUL GAULTIER",
     "descricao": "Jean Paul Gaultier apresenta o Perfume Divine Elixir, um Parfum floral marinho ambarado que exala poder, sensualidade e presença. Uma fragrância intensa que hipnotiza desde o primeiro instante, onde a cremosidade opulenta da tuberosa se encontra com a profundidade envolvente da fava tonka, criando um contraste magnético e irresistível.",
@@ -1011,11 +997,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "414 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 50,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Benetton United Colors Tribe Play Masculino Eau de Toilette",
     "marca": "BENETTON",
     "descricao": "We Are TRIBE PLAY redefine a forma como você se expressa. Moderna e cheia de atitude, é perfeita para quem busca viver intensamente e celebrar sua autenticidade. Liberte seu lado brincalhão e crie experiências inesquecíveis com os amigos. Sua fragrância cítrica e vibrante traz uma explosão de energia que permanece com você, lembrando que a vida é um jogo que vale a pena viver com ousadia — sempre com a sua Tribo.",
@@ -1032,12 +1018,12 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "60 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 51,
-    "categoria": 3,
-    "nome": "Perfume Issey Miyake L\\'Eau D'Issey Feminino Eau de Parfum Intense",
+    "categoria": 5,
+    "nome": "Perfume Issey Miyake L'Eau D'Issey Feminino Eau de Parfum Intense",
     "marca": "ISSEY MIYAKE",
     "descricao": "Inspirado nas profundezas misteriosas do oceano, L’Eau d’Issey Eau de Parfum Intense é a nova fragrância feminina de Issey Miyake. Uma combinação intensa de frescor aquático e sensualidade floral, que traduz a força e a beleza da natureza.",
     "preco": "999,00",
@@ -1051,11 +1037,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "224 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 52,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Cartier Déclaration Masculino Eau de Toilette",
     "marca": "CARTIER",
     "descricao": "Déclaration Eau de Toilette é uma fragrância masculina sofisticada da renomada Maison Cartier. Combinando o frescor vibrante da pimenta com a imponência do cedro e o toque aromático do cardamomo, este perfume revela uma assinatura amadeirada e especiada marcante.",
@@ -1068,11 +1054,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐",
     "avaliacoes": "168 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 53,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Perfume Cartier La Panthere Feminino Eau de Parfum",
     "marca": "CARTIER",
     "descricao": "\"Todas as mulheres têm um aspecto felino, e toda flor tem uma essência animal oculta\" Mathilde Laurent, Perfumista da Cartier. Mathilde Laurent nos apresenta um novo acorde único, combinando uma flor e uma sensação: uma fragrância floral felina. Para expressar a feminilidade, ela escolheu explorar o esplendor da gardênia radiante, sensual e delicada. Para adicionar um toque selvagem, criou um almíscar suave e aveludado. Em termos de design, a Cartier enfatizou as curvas da cabeça da pantera, em um estilo mais orgânico e primitivo. Mantendo-se fiel ao charme do original, esta nova versão suaviza as linhas, fortalecendo o vínculo com o emblema de joias da Maison.",
@@ -1087,11 +1073,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "320 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 54,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Kit Coffret Jean Paul Gaultier Le Male Masculino Eau de Toilette",
     "marca": "JEAN PAUL GAULTIER",
     "descricao": "O perfume Le Male de Jean Paul Gaultier é uma fragrância marcante e envolvente da família Oriental Aromática, criada para o homem que une charme, ousadia e elegância. Com notas refrescantes, toques apimentados e uma base adocicada, ele traduz uma masculinidade moderna e cativante.",
@@ -1104,11 +1090,11 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "128 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 55,
-    "categoria": 3,
+    "categoria": 5,
     "nome": "Kit Coffret Antonio Banderas King of Seduc Masculino Eau de Toilette",
     "marca": "BANDERAS",
     "descricao": "Descubra o poder da sedução com o Kit Coffret King of Seduction de Antonio Banderas. Uma fragrância masculina que combina o frescor cítrico com a intensidade das notas amadeiradas, traduzindo sofisticação, autoconfiança e charme natural.",
@@ -1120,7 +1106,7 @@
     ],
     "avaliacao": "⭐⭐⭐⭐⭐",
     "avaliacoes": "385 avaliações",
-    "detalhes": []
+    "detalhes": ["Selo de qualidade", "Garantia", "Frete Full"]
   },
   {
     "id": 56,
@@ -1229,4 +1215,3 @@
     "detalhes": ["Titanium Dioxide", "Zea Mays (Corn Starch)", "Corn Starch Modified"]
   }
 ]
-
