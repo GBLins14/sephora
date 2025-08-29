@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sephora | Loja Online de Cosméticos, Beleza e Perfumaria</title>
+    <link rel="icon" type="image/png"
+        href="https://imgs.search.brave.com/_XQxl9kyt6N8Y7eMuU6kKr0Z7bbg3f20-XsvcmYQaAE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQwL2M1/LzZmLzQwYzU2ZjY2/MGQ0ZjA5MTBmMjYz/ZGFmMjQ5ZTRmY2Nk/LmpwZw">
+
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+<!-- Modal de Pesquisa -->
+<div id="searchModal" class="search-modal">
+    <div class="search-container">
+        <div class="search-header">
+            <input type="text" id="searchInput" class="search-input" placeholder="O que você está procurando?">
+            <button class="close-search" onclick="closeSearch()">×</button>
+        </div>
+        <div id="searchResults" class="search-results">
+            <div class="no-results">Digite para buscar produtos...</div>
+        </div>
+    </div>
+</div>
+
+<body>
+    <div class="container">
+        <img class="banner_top" src="./imgs/faixa_topo.webp">
+
+        <div class="banner_white">
+            <img class="menu_hamburguer" src="./imgs/menu-hamburguer.png" alt="Menu" id="menu">
+            <img class="logo" src="./imgs/logo.png" alt="Logo" id="logo">
+            <img class="icons_menu"
+                src="https://www.sephora.com.br/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw5791801e/images/svg/search-icon.svg"
+                alt="Buscar" id="buscar">
+            <img class="icons_menu"
+                src="https://www.sephora.com.br/on/demandware.static/Sites-Sephora_BR-Site/-/default/dwedc16301/images/svg/customerservice-icon.svg"
+                alt="Suporte" id="suporte">
+            <img class="icons_menu" src="./imgs/person.png" alt="Perfil" id="perfil">
+            <img class="icons_menu"
+                src="https://www.sephora.com.br/on/demandware.static/Sites-Sephora_BR-Site/-/default/dwd065d3bf/images/svg/basket-icon.svg"
+                alt="Carrinho" id="carrinho">
+        </div>
+
+        <nav class="menu-categorias-container">
+            <div class="menu-categorias" id="menuCategorias">
+                <a href="#products-section" style="margin-left: 200px;">Cabelo</a>
+                <a href="#products-section">Rosto</a>
+                <a href="#products-section">Boca</a>
+                <a href="#products-section">Perfumes</a>
+                <a href="#products-section">50%off</a>
+                <a href="#products-section"
+                    style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; padding: 4px; color: white; background-color: red;">Ofertas</a>
+                <a href="#products-section">Corpo</a>
+                <a href="#products-section">Marcas</a>
+            </div>
+        </nav>
+
+        <div class="carrossel-container">
+            <div class="carrossel" id="carrossel">
+                <img src="./imgs/banner_mobile1.avif" alt="Produto em destaque 1">
+                <img src="./imgs/banner_mobile2.jpg" alt="Produto em destaque 2">
+                <img src="./imgs/banner_mobile3.jpg" alt="Produto em destaque 3">
+                <img src="./imgs/banner_mobile4.jpg" alt="Produto em destaque 4">
+                <img src="./imgs/banner_mobile5.jpg" alt="Produto em destaque 5">
+            </div>
+
+            <button class="carrossel-btn prev" id="btnPrev">&#10094;</button>
+            <button class="carrossel-btn next" id="btnNext">&#10095;</button>
+        </div>
+        <div class="carrossel-indicadores" id="indicadores"></div>
+
+        <div class="novidades">
+            <div class="novidades-item" data-category="all">
+                <img class="icons_novidades" src="./imgs/ico-bt-novidades.png" alt="ico-novidade">
+                <h4>Novidades</h4>
+            </div>
+            <div class="novidades-item" data-category="all">
+                <img class="icons_novidades" src="./imgs/logo-sephora.avif" alt="ico-sephora">
+                <h4>Só na Sephora</h4>
+            </div>
+            <div class="novidades-item" data-category="all">
+                <img class="icons_novidades" src="./imgs/ico-50off.png" alt="ico-50off">
+                <h4>50% Off</h4>
+            </div>
+            <div class="novidades-item" data-category="all">
+                <img class="icons_novidades" src="./imgs/ico-sephora-collection.png" alt="ico-collection">
+                <h4>Sephora Collection</h4>
+            </div>
+            <div class="novidades-item" data-category="all">
+                <img class="icons_novidades" src="./imgs/ico-the-ordinary-1.avif" alt="ico-ordinary">
+                <h4>The Ordinary</h4>
+            </div>
+        </div>
+
+        <div class="category-tabs" id="categoryTabs">
+            <!-- As abas serão geradas dinamicamente pelo JavaScript -->
+        </div>
+
+        <section id="products-section">
+            <div class="products">
+                <h1 id="category-title">TODOS OS PRODUTOS</h1>
+                <div id="products-container" class="products-grid">
+                    <div class="loading">Carregando produtos...</div>
+                </div>
+            </div>
+        </section>
+
+        <div class="banner_final">
+            <img src="https://www.sephora.com.br/on/demandware.static/-/Library-Sites-Sephora/pt_BR/dwc30de40c/Trade-Marketing/Home-Banners-Site-App/08-Agosto/25/20250825_faixa_meio_mobile_b.jpg"
+                alt="Banner">
+        </div>
+
+        <footer class="site-footer">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>RECEBA NOVIDADES E OFERTAS</h3>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Digite seu e-mail" required>
+                        <button type="submit">CADASTRAR</button>
+                    </form>
+                </div>
+
+                <div class="footer-section">
+                    <h3>INSTITUCIONAL</h3>
+                    <ul>
+                        <li><a href="../">Quem Somos</a></li>
+                        <li><a href="../">Nossas Lojas</a></li>
+                        <li><a href="../">Trabalhe Conosco</a></li>
+                        <li><a href="../">Termos e Condições</a></li>
+                        <li><a href="../">Política de Privacidade</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h3>Precisa de ajuda?</h3>
+                    <p class="phone">(11) 3004-7500</p>
+                    <h2>Segunda a Sex, 8h às 20h</h2>
+                    <h2>Sáb: 9h às 20h</h2>
+                    <h2>(Indisponível domingos e feriados nacionais)</h2>
+                    <h2>atendimento@sac.sephora.com.br</h2>
+                </div>
+
+                <div class="footer-section">
+                    <h3>REDES SOCIAIS</h3>
+                    <div class="social-icons">
+                        <a href="https://www.instagram.com/sephorabrasil"><img src="./imgs/instagram.png"
+                                alt="Instagram"></a>
+                        <a href="https://www.tiktok.com/@sephorabrasil"><img src="./imgs/tik-tok.png" alt="TikTok"></a>
+                        <a href="https://www.facebook.com/sephorabrasil"><img src="./imgs/facebook.png"
+                                alt="Facebook"></a>
+                        <a href="https://www.youtube.com/sephorabrasil"><img src="./imgs/youtube.png" alt="YouTube"></a>
+                        <a href="https://x.com/sephorabrasil"><img src="./imgs/x.avif" alt="Twitter"></a>
+                        <a href="https://br.pinterest.com/sephorabrasil/"><img src="./imgs/pinterest.png"
+                                alt="Pinterest"></a>
+                    </div>
+
+                    <h3>FORMAS DE PAGAMENTO</h3>
+                    <div class="payment-methods">
+                        <img src="https://www.sephora.com.br/on/demandware.static/-/Library-Sites-Sephora/pt_BR/dwbf70c3b4/Imagens/Paginas_Institucionais/ico-visa-footer.svg"
+                            alt="Visa">
+                        <img src="https://www.sephora.com.br/on/demandware.static/-/Library-Sites-Sephora/pt_BR/dwb9eb4531/Imagens/Paginas_Institucionais/ico-mastercard-footer.svg"
+                            alt="Mastercard">
+                        <img src="https://www.sephora.com.br/on/demandware.static/-/Library-Sites-Sephora/pt_BR/dwbc49e933/Imagens/Paginas_Institucionais/ico-american-express-footer.svg"
+                            alt="American Express">
+                        <img src="https://www.sephora.com.br/on/demandware.static/-/Library-Sites-Sephora/pt_BR/dwfcbef7b8/Imagens/Paginas_Institucionais/ico-elo-footer.svg"
+                            alt="Elo">
+                        <img src="https://www.sephora.com.br/on/demandware.static/-/Library-Sites-Sephora/pt_BR/dw166d9e96/Imagens/Paginas_Institucionais/ico-pix-white-footer.svg"
+                            alt="Pix">
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>Copyright © 2025 www.sephora.com.br . Todos os direitos reservados. O conteúdo do site, fotos,
+                    imagens, logotipos, marcas, dizeres, som, software, trade dress (conjunto imagem – lay out)
+                    veiculados são de propriedade exclusiva da www.sephora.com.br. É vedada qualquer reprodução, total
+                    ou parcial.</p>
+                <p>Avenue Hoche Comercio Varejista de Produtos LTDA. / www.sephora.com.br / Avenida das Nações Unidas,
+                    nº 12901, 34º andar Conj 3402, Torre Norte, Brooklin Paulista, CEP: 04.578-910 / CNPJ:
+                    15.048.124/0001-14 / Inscrição Estadual: 146.998.050.112 / Fale Conosco</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="main.js"></script>
+
+</body>
+
+</html>

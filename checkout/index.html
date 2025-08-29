@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - Sephora</title>
+    <link rel="icon" type="image/png" href="https://imgs.search.brave.com/_XQxl9kyt6N8Y7eMuU6kKr0Z7bbg3f20-XsvcmYQaAE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQwL2M1/LzZmLzQwYzU2ZjY2/MGQ0ZjA5MTBmMjYz/ZGFmMjQ5ZTRmY2Nk/LmpwZw">
+    
+    <!-- Corrigir caminho do CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container header-content">
+            <img src="../imgs/logo.png" alt="Sephora" class="logo" onclick="window.location.href='../'">
+            <div class="header-icons">
+                <img src="https://www.sephora.com.br/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw5791801e/images/svg/search-icon.svg"
+                    alt="Buscar" onclick="window.location.href='../'">
+                <img src="../imgs/person.png" alt="Perfil" onclick="window.location.href='../'">
+                <img src="https://www.sephora.com.br/on/demandware.static/Sites-Sephora_BR-Site/-/default/dwd065d3bf/images/svg/basket-icon.svg"
+                    alt="Carrinho" onclick="window.location.href='../carrinho/'">
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="breadcrumb">
+            <!-- Corrigir links do breadcrumb -->
+            <a href="../">Home</a> > <a href="../carrinho/">Carrinho</a> > <span>Checkout</span>
+        </div>
+
+        <div class="checkout-steps">
+            <div class="step active" id="step1">
+                <div class="step-number">1</div>
+                <div class="step-text">Entrega</div>
+            </div>
+            <div class="step" id="step2">
+                <div class="step-number">2</div>
+                <div class="step-text">Pagamento</div>
+            </div>
+            <div class="step" id="step3">
+                <div class="step-number">3</div>
+                <div class="step-text">Confirmação</div>
+            </div>
+        </div>
+
+        <div id="checkout-container">
+            <div class="loading">Carregando checkout...</div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs@gh-pages/qrcode.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

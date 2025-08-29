@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produto - Sephora</title>
+    <link rel="icon" type="image/png"
+        href="https://imgs.search.brave.com/_XQxl9kyt6N8Y7eMuU6kKr0Z7bbg3f20-XsvcmYQaAE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQwL2M1/LzZmLzQwYzU2ZjY2/MGQ0ZjA5MTBmMjYz/ZGFmMj�5ZTRmY2Nk/LmpwZw">
+    
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+<body>
+    <header class="header">
+        <div class="container header-content">
+            <img class="logo" src="../imgs/logo.png" alt="Logo" id="logo" onclick="window.location.href='../'">
+            <div class="header-icons">
+                <img src="https://www.sephora.com.br/on/demandware.static/Sites-Sephora_BR-Site/-/default/dw5791801e/images/svg/search-icon.svg"
+                    alt="Buscar" onclick="window.location.href='../'">
+                <img src="../imgs/person.png" alt="Perfil" onclick="window.location.href='../'">
+                <img src="https://www.sephora.com.br/on/demandware.static/Sites-Sephora_BR-Site/-/default/dwd065d3bf/images/svg/basket-icon.svg"
+                    alt="Carrinho" onclick="window.location.href='../carrinho/'">
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="index.html">Home</a> > <a href="index.html#produtos-section">Produtos</a> > <span
+                id="breadcrumb-product">Carregando...</span>
+        </div>
+
+        <div id="product-container">
+            <div class="loading">Carregando produto...</div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+    
+</body>
+
+</html>
