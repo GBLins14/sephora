@@ -27,11 +27,11 @@ function BuscarClick(nome) {
 }
 
 function SuporteClick(nome) {
-    alert(`Opção em manutenção, Sephora pede desculpas pelo inconveniente.`);
+    window.location.href = "https://www.sephora.com.br/institucional/?cid=fale-conosco";
 }
 
 function PerfilClick(nome) {
-    alert(`Opção em manutenção, Sephora pede desculpas pelo inconveniente.`);
+    window.location.href = "https://www.sephora.com.br/customer/account/login/";
 }
 
 function CarrinhoClick(nome) {
@@ -419,3 +419,4 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 });
+
