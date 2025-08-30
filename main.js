@@ -3,8 +3,8 @@ const categories = {
     1: { id: 1, name: "CABELO" },
     2: { id: 2, name: "ROSTO" },
     3: { id: 3, name: "BOCA" },
-    5: { id: 5, name: "PERFUMES" },
-    6: { id: 6, name: "CORPO" }
+    5: { id: 4, name: "PERFUMES" },
+    6: { id: 5, name: "CORPO" }
 };
 
 // Funções existentes
@@ -50,10 +50,10 @@ document.getElementById("menu_Cabelo").onclick = () => filterProducts(1);
 document.getElementById("menu_Rosto").onclick = () => filterProducts(2);
 document.getElementById("menu_Boca").onclick = () => filterProducts(3);
 document.getElementById("menu_Perfumes").onclick = () => filterProducts(4);
-document.getElementById("menu_50off").onclick = () => filterProducts(all);
-document.getElementById("menu_Ofertas").onclick = () => filterProducts(all);
+document.getElementById("menu_50off").onclick = () => filterProducts('all');
+document.getElementById("menu_Ofertas").onclick = () => filterProducts('all');
 document.getElementById("menu_Corpo").onclick = () => filterProducts(5);
-document.getElementById("menu_Marcas").onclick = () => filterProducts(all);
+document.getElementById("menu_Marcas").onclick = () => filterProducts('all');
 
 // Variáveis globais
 let allProducts = [];
@@ -411,3 +411,4 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 });
+
