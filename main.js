@@ -46,14 +46,14 @@ document.getElementById("suporte").onclick = () => SuporteClick("Suporte");
 document.getElementById("perfil").onclick = () => PerfilClick("Perfil");
 document.getElementById("carrinho").onclick = () => CarrinhoClick("Carrinho");
 
-document.getElementById("menu_Cabelo").onclick = () => {filterProducts(1); scrollToSection('products-section');}
-document.getElementById("menu_Rosto").onclick = () => {filterProducts(2); scrollToSection('products-section');}
-document.getElementById("menu_Boca").onclick = () => {filterProducts(3); scrollToSection('products-section');}
-document.getElementById("menu_Perfumes").onclick = () => {filterProducts(4); scrollToSection('products-section');}
-document.getElementById("menu_50off").onclick = () => {filterProducts('all'); scrollToSection('products-section');}
-document.getElementById("menu_Ofertas").onclick = () => {filterProducts('all'); scrollToSection('products-section');}
-document.getElementById("menu_Corpo").onclick = () => {filterProducts(5); scrollToSection('products-section');}
-document.getElementById("menu_Marcas").onclick = () => {filterProducts('all'); scrollToSection('products-section');}
+document.getElementById("menu_Cabelo").onclick = () => { filterProducts(1); scrollToSection('products-section'); }
+document.getElementById("menu_Rosto").onclick = () => { filterProducts(2); scrollToSection('products-section'); }
+document.getElementById("menu_Boca").onclick = () => { filterProducts(3); scrollToSection('products-section'); }
+document.getElementById("menu_Perfumes").onclick = () => { filterProducts(4); scrollToSection('products-section'); }
+document.getElementById("menu_50off").onclick = () => { filterProducts('all'); scrollToSection('products-section'); }
+document.getElementById("menu_Ofertas").onclick = () => { filterProducts('all'); scrollToSection('products-section'); }
+document.getElementById("menu_Corpo").onclick = () => { filterProducts(5); scrollToSection('products-section'); }
+document.getElementById("menu_Marcas").onclick = () => { filterProducts('all'); scrollToSection('products-section'); }
 
 // Variáveis globais
 let allProducts = [];
@@ -328,7 +328,14 @@ function closeSearch() {
     document.getElementById('searchResults').innerHTML = '<div class="no-results">Digite para buscar produtos...</div>';
 }
 
-// Função para buscar produtos
+function normalizeText(text) {
+    if (!text) return '';
+    return text
+        .normalize('NFD')                   // separa letras de acentos
+        .replace(/[\u0300-\u036f]/g, '')    // remove os diacríticos
+        .toLowerCase();                     // transforma tudo em minúsculo
+}
+
 function searchProducts(searchTerm) {
     const searchResults = document.getElementById('searchResults');
 
@@ -337,19 +344,20 @@ function searchProducts(searchTerm) {
         return;
     }
 
-    const term = searchTerm.toLowerCase();
-    const results = allProducts.filter(product =>
-        product.nome.toLowerCase().includes(term) ||
-        product.marca.toLowerCase().includes(term) ||
-        product.descricao.toLowerCase().includes(term)
-    );
+    const term = normalizeText(searchTerm); // normaliza o termo de busca
+
+    const results = allProducts.filter(product => {
+        // normalizar todas as strings do produto
+        const nome = normalizeText(product.nome);
+        const marca = normalizeText(product.marca);
+        const descricao = normalizeText(product.descricao);
+
+        // comparar usando includes
+        return (nome + ' ' + marca + ' ' + descricao).includes(term);
+    });
 
     if (results.length === 0) {
-        searchResults.innerHTML = `
-            <div class="no-results">
-                Nenhum produto encontrado para "${searchTerm}"
-            </div>
-        `;
+        searchResults.innerHTML = `<div class="no-results">Nenhum produto encontrado para "${searchTerm}"</div>`;
         return;
     }
 
@@ -411,6 +419,3 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 });
-
-
-
