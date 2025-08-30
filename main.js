@@ -46,14 +46,14 @@ document.getElementById("suporte").onclick = () => SuporteClick("Suporte");
 document.getElementById("perfil").onclick = () => PerfilClick("Perfil");
 document.getElementById("carrinho").onclick = () => CarrinhoClick("Carrinho");
 
-document.getElementById("menu_Cabelo").onclick = () => filterProducts(1);
-document.getElementById("menu_Rosto").onclick = () => filterProducts(2);
-document.getElementById("menu_Boca").onclick = () => filterProducts(3);
-document.getElementById("menu_Perfumes").onclick = () => filterProducts(4);
-document.getElementById("menu_50off").onclick = () => filterProducts('all');
-document.getElementById("menu_Ofertas").onclick = () => filterProducts('all');
-document.getElementById("menu_Corpo").onclick = () => filterProducts(5);
-document.getElementById("menu_Marcas").onclick = () => filterProducts('all');
+document.getElementById("menu_Cabelo").onclick = () => {filterProducts(1); scrollToSection('products-section');}
+document.getElementById("menu_Rosto").onclick = () => {filterProducts(2); scrollToSection('products-section');}
+document.getElementById("menu_Boca").onclick = () => {filterProducts(3); scrollToSection('products-section');}
+document.getElementById("menu_Perfumes").onclick = () => {filterProducts(4); scrollToSection('products-section');}
+document.getElementById("menu_50off").onclick = () => {filterProducts('all'); scrollToSection('products-section');}
+document.getElementById("menu_Ofertas").onclick = () => {filterProducts('all'); scrollToSection('products-section');}
+document.getElementById("menu_Corpo").onclick = () => {filterProducts(5); scrollToSection('products-section');}
+document.getElementById("menu_Marcas").onclick = () => {filterProducts('all'); scrollToSection('products-section');}
 
 // Variáveis globais
 let allProducts = [];
@@ -411,5 +411,6 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 });
+
 
 
