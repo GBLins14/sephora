@@ -3,8 +3,8 @@ const categories = {
     1: { id: 1, name: "CABELO" },
     2: { id: 2, name: "ROSTO" },
     3: { id: 3, name: "BOCA" },
-    5: { id: 4, name: "PERFUMES" },
-    6: { id: 5, name: "CORPO" }
+    4: { id: 4, name: "PERFUMES" },
+    5: { id: 5, name: "CORPO" }
 };
 
 // Funções existentes
@@ -411,4 +411,5 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 });
+
 
