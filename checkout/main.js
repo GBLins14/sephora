@@ -103,7 +103,7 @@ function renderShippingStep(cart, subtotal, discount, total) {
                 <div class="summary-line"><span>Frete</span><span>Grátis</span></div>
                 <div class="summary-total"><span>Total</span><span>R$ ${total.toFixed(2).replace('.', ',')}</span></div>
                 <button class="btn-continue" onclick="validateShipping()">CONTINUAR PARA PAGAMENTO</button>
-                <button class="btn-back" onclick="window.location.href='../carrinho'">VOLTAR AO CARRINHO</button>
+                <button class="btn-back" onclick="window.location.href='../carrinho/'">VOLTAR AO CARRINHO</button>
             </div>
         </div>
         `;
