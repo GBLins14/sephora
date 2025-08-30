@@ -35,7 +35,7 @@ function PerfilClick(nome) {
 }
 
 function CarrinhoClick(nome) {
-    window.location.href = "../carrinho";
+    window.location.href = "../carrinho/";
 }
 
 // Event listeners para os elementos do menu
@@ -419,4 +419,5 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 });
+
 
