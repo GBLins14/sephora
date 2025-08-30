@@ -89,7 +89,7 @@ function filterProducts(categoryId) {
     // Atualizar a classe ativa nas abas
     document.querySelectorAll('.category-tab').forEach(tab => {
         tab.classList.remove('active');
-        if (tab.dataset.category === categoryId) {
+        if (tab.dataset.category === String(categoryId)) {
             tab.classList.add('active');
         }
     });
