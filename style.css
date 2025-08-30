@@ -348,6 +348,16 @@ body {
     .novidades-item {
         width: 15%;
     }
+
+    .search-container {
+        margin: 20px auto;
+        padding: 15px;
+    }
+
+    .search-input {
+        font-size: 14px;
+        padding: 10px 12px;
+    }
 }
 
 .site-footer {
@@ -524,7 +534,9 @@ body {
     border-radius: 8px;
     padding: 20px;
     max-width: 600px;
-    margin: 50px;
+    width: 100%;              /* garante que nunca passe da tela */
+    margin: 50px auto;        /* centraliza horizontalmente */
+    box-sizing: border-box;   /* padding não soma na largura */
     position: relative;
 }
 
@@ -604,3 +616,4 @@ body {
     padding: 30px;
     color: #666;
 }
+
