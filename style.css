@@ -302,6 +302,10 @@ body {
     border-color: #000;
 }
 
+.category-tab:hover {
+    background-color: #000000;
+}
+
 .category-tab.active:hover {
     background-color: #000;
 }
